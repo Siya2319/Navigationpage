@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">First app</string>
+    <string name="navigation_drawer_close">nav</string>
+    <string name="navigation_drawer_open">nav</string>
+</resources>
